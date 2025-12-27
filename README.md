@@ -32,5 +32,7 @@ Known Issues:
 
 ![In-Game](https://github.com/user-attachments/assets/32e71d78-516b-4b48-8582-e89ce40b561b)
 
+*Thanks to PatnosD for everything*
+
 Have fun !
 Port by MaloneCZSD.
